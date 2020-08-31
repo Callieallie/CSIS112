@@ -1,0 +1,3 @@
+﻿  Shopping.cpp
+C:\Users\Caroline Wayne\Documents\College\Fall 2020\CSIS112\Week 1\BuggyExample\Shopping\Shopping\Shopping.cpp(56,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Shopping.vcxproj -> C:\Users\Caroline Wayne\Documents\College\Fall 2020\CSIS112\Week 1\BuggyExample\Shopping\Debug\Shopping.exe
